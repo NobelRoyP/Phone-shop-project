@@ -1,0 +1,42 @@
+.container {
+      background:transparent;
+      height: 47em;
+      width: 100%;  
+      position:absolute;
+}
+.container input{
+      border:0;
+      background: #1f1f1f;
+      height: 50px;
+      width: 20em;
+      margin:10px;
+      text-align:center;
+}
+.container form{
+      background: #171717;
+      padding: 4px;
+      width:18.3em;
+      height:35.5em;
+      position:absolute;
+      top:50%;
+      left:50%;
+      transform:translate(-50%,-50%);
+}
+.container form h2{
+      text-align:center;
+}
+.container form button{
+      color: white;
+      background: #006cff;
+      margin-top:5px;
+      margin-bottom:10px;
+      margin-left:6em;
+      margin-right:3.5em;
+}
+.tlink{
+      text-decoration:none;
+      color: white;
+      background: #006cff;
+      padding:10px;
+      border-radius:7px;
+}

@@ -1,0 +1,12 @@
+.top {
+      color: white;
+      height: 3em;
+      width: 100%;
+      background: #408cff;
+      position:fixed;
+      top: 0;
+      padding-left: 5px;
+      display: flex;
+      align-items:center;
+      justify-content: center;
+}
